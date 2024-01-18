@@ -9,6 +9,7 @@ My name is Julian. I'm a self taught programmer with a passion for high quality 
 ![Zig](https://skillicons.dev/icons?i=zig)
 ![C](https://skillicons.dev/icons?i=c)
 ![CSharp](https://skillicons.dev/icons?i=cs)
+![Go](https://skillicons.dev/icons?i=go)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![Godot](https://skillicons.dev/icons?i=godot)
